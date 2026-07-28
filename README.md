@@ -21,7 +21,7 @@ You will never solve your own proposal.
 | **Wed Jul 22** | Projects are assigned to students (instruction team reviews proposals and resolves conflicts) |
 | **Fri Jul 31** | Checkpoint 1 — EDA on dataset. Submitted to instructor **and** shared with your assigned Client |
 | **Mon Aug 3** | Client Check-in — Client responds to Checkpoint 1 with brief feedback |
-| **Fri Aug 7** | Checkpoint 2 — Both problems substantially modeled; draft notebook submitted to instructor only |
+| **Fri Aug 7** | Checkpoint 2 — Problems substantially modeled; draft notebook submitted to instructor only |
 | **Mon Aug 10** | Final delivery — Notebook + recorded presentation (+ optional Streamlit link) delivered to your Client and the instructor |
 | **Mon Aug 10 – Wed Aug 12** | Client Evaluation window |
 | **Wed Aug 12** | Client Evaluation report due |
