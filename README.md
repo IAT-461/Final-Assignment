@@ -55,7 +55,7 @@ Each student acts as a client. You are tasked with defining a problem for an ent
 
 ## Phase 2 — Assignment (Jul 22)
 
-Assignments are randomized (one proposal per student; no self-assignments). The instruction team will review all proposals to ensure appropriate depth and workload, while resolving any conflicts (e.g., a dataset failing accessibility checks). To maintain objective peer reviews in Phase 4, you will not know who evaluated your work until final grades are released.
+Assignments are randomized (one proposal per student; no self-assignments). The instruction team will review all proposals to ensure appropriate depth and workload, while resolving any conflicts (e.g., a dataset failing accessibility checks).
 
 ---
 
