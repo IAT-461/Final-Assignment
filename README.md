@@ -19,17 +19,17 @@ You will never solve your own proposal.
 |---|---|
 | **Tue Jul 21** | Client proposal due |
 | **Wed Jul 22** | Projects are assigned to students (instruction team reviews proposals and resolves conflicts) |
-| **Fri Jul 31** | Checkpoint 1 — EDA on dataset. Submitted to instructor **and** shared with your assigned Client |
-| **Mon Aug 3** | Client Check-in — Client responds to Checkpoint 1 with brief feedback |
-| **Fri Aug 7** | Checkpoint 2 — Problems substantially modeled; draft notebook submitted to instructor only |
-| **Mon Aug 10** | Final delivery — Notebook + recorded presentation (+ optional Streamlit link) delivered to your Client and the instructor |
-| **Mon Aug 10 – Wed Aug 12** | Client Evaluation window |
-| **Wed Aug 12** | Client Evaluation report due |
-| **Sat Aug 15, 11:59pm** | Final revisions (optional, based on Client feedback) + all materials due |
+| **Wed Aug 5** | Checkpoint 1 — EDA on dataset. Submitted to instructor **and** shared with your assigned Client |
+| **Thu Aug 6** | Client Check-in — Client responds to Checkpoint 1 with brief feedback |
+| **Sun Aug 9** | Checkpoint 2 — Problems substantially modeled; draft notebook submitted to instructor only |
+| **Tue Aug 11** | Final delivery — Notebook + recorded presentation (+ optional Streamlit link) delivered to your Client and the instructor |
+| **Wed Aug 12 – Wed Aug 14** | Client Evaluation window |
+| **Fri Aug 14** | Client Evaluation report due |
+| **Sun Aug 16, 11:59pm** | Final revisions (optional, based on Client feedback) + all materials due |
 
 ---
 
-## Phase 1 — Client Proposal (due Jul 21)
+## Phase 1 — Client Proposal (due Jul 22)
 
 Each student acts as a client. You are tasked with defining a problem for an entity you care about — real or fictional — that will be assigned to another student. **You will not know who receives your proposal or whose problem you are assigned until assignments are released on July 22.**
 
@@ -53,13 +53,13 @@ Each student acts as a client. You are tasked with defining a problem for an ent
 
 ---
 
-## Phase 2 — Assignment (Jul 22)
+## Phase 2 — Assignment (Jul 27)
 
 Assignments are randomized (one proposal per student; no self-assignments). The instruction team will review all proposals to ensure appropriate depth and workload, while resolving any conflicts (e.g., a dataset failing accessibility checks).
 
 ---
 
-## Phase 3 — Data Scientist Deliverables (Jul 22 – Aug 10)
+## Phase 3 — Data Scientist Deliverables (Jul 27 – Aug 11)
 
 Working on your **assigned** client proposal:
 
@@ -90,7 +90,7 @@ A **5-minute recorded video** walking a non-technical stakeholder through both p
 
 ---
 
-## Phase 4 — Client Evaluation (Aug 10–12)
+## Phase 4 — Client Evaluation (Aug 12–14)
 
 You return to being the Client for the proposal you originally wrote. Review the notebook and watch the presentation.
 
