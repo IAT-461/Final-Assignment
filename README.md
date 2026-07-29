@@ -23,7 +23,7 @@ You will never solve your own proposal.
 | **Thu Aug 6** | Client Check-in — Client responds to Checkpoint 1 with brief feedback |
 | **Sun Aug 9** | Checkpoint 2 — Problems substantially modeled; draft notebook submitted to instructor only |
 | **Tue Aug 11** | Final delivery — Notebook + recorded presentation (+ optional Streamlit link) delivered to your Client and the instructor |
-| **Wed Aug 12 – Wed Aug 14** | Client Evaluation window |
+| **Wed Aug 12 – Fri Aug 14** | Client Evaluation window |
 | **Fri Aug 14** | Client Evaluation report due |
 | **Sun Aug 16, 11:59pm** | Final revisions (optional, based on Client feedback) + all materials due |
 
